@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kaleem-elahi
-- 👀 I’m interested in Javascript
+- 👀 I’m interested in Typescript and NextJS
 - 🌱 I’m currently learning AWS
 - 💞️ I’m looking to collaborate with ReactJs projects
 - 📫 How to reach me by Email : shaikh9996@gmail.com
